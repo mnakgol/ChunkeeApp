@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ChunkeeApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

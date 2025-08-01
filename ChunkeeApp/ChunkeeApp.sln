@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChunkeeApp", "ChunkeeApp.csproj", "{7C9B7E2D-C982-4D5D-8FB9-6FDC73D10839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChunkeeApp.Tests", "..\ChunkeeApp.Tests\ChunkeeApp.Tests.csproj", "{8CFB4CA8-741B-44F5-B18A-DF163D24D70A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C9B7E2D-C982-4D5D-8FB9-6FDC73D10839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9B7E2D-C982-4D5D-8FB9-6FDC73D10839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9B7E2D-C982-4D5D-8FB9-6FDC73D10839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9B7E2D-C982-4D5D-8FB9-6FDC73D10839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFB4CA8-741B-44F5-B18A-DF163D24D70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFB4CA8-741B-44F5-B18A-DF163D24D70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFB4CA8-741B-44F5-B18A-DF163D24D70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFB4CA8-741B-44F5-B18A-DF163D24D70A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
